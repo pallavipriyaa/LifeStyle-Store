@@ -1,0 +1,29 @@
+.content{
+    min-height: 617px;
+    padding-top: 7%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.container{
+    width:100%;
+    margin:auto;
+    overflow:hidden;
+}
+.navbar-header{
+    padding-left: 8%;
+}
+.navbar-right{
+    padding-right: 8%;
+}
+.row{
+    
+    padding-bottom: 1%;
+    
+}
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom:0;
+    width: 100%;
+}
